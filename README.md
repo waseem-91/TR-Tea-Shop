@@ -1,4 +1,4 @@
-# Tea-Shop App
+# TR Tea Shop App
 
 ```
 This is a Mini E-Commerce project with a frontend built in React & Redux and a backend built in Django API.
